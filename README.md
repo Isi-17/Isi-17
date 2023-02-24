@@ -7,6 +7,6 @@
 
 <p align="center">
   <a href="https://github.com">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=15Galan&layout=compact&langs_count=10&&locale=es" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isi-17&layout=compact&langs_count=10&&locale=es" />
   </a>
 </p>
