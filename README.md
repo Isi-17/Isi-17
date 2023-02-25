@@ -43,9 +43,4 @@
 <a href="https://www.bayesfusion.com/genie/" target="_blank" rel="noreferrer"> <img src="https://www.bayesfusion.com/wp-content/uploads/2018/12/genie-lamp-for-website-square.png" alt="genie" width="40" height="40"/> </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isi-17&layout=compact&langs_count=10&&locale=es" />
-  </a>
-</p>
 
