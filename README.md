@@ -40,7 +40,7 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 -->
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-<a href="https://www.bayesfusion.com/genie/" target="_blank" rel="noreferrer"> <img src="file:///C:/Users/isidr/Downloads/Mi%20proyecto%20(1).png" alt="genie" width="40" height="40"/> </a>
+<a href="https://www.bayesfusion.com/genie/" target="_blank" rel="noreferrer"> <img src="https://www.bayesfusion.com/wp-content/uploads/2018/12/genie-lamp-for-website-square.png" alt="genie" width="40" height="40"/> </a>
 </p>
 
 <p align="center">
