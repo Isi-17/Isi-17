@@ -41,6 +41,7 @@
 -->
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 <a href="https://www.bayesfusion.com/genie/" target="_blank" rel="noreferrer"> <img src="https://www.bayesfusion.com/wp-content/uploads/2018/12/genie-lamp-for-website-square.png" alt="genie" width="40" height="40"/> </a>
+<a href="https://www.tableau.com/es-es" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/tableau-5376637-4489897.png" alt="tableau" width="40" height="40"/> </a>
 </p>
 
 <p align="center">
