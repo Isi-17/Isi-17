@@ -45,7 +45,7 @@
 <a href="https://www.wolfram.com/mathematica/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Mathematica_Logo.svg/1200px-Mathematica_Logo.svg.png" width="40" height="40"/> </a> 
 <a href="https://www.bayesfusion.com/genie/" target="_blank" rel="noreferrer"> <img src="https://www.bayesfusion.com/wp-content/uploads/2018/12/genie-lamp-for-website-square.png" alt="genie" width="40" height="40"/> </a>
 <a href="https://www.cs.waikato.ac.nz/ml/weka/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/256/1*fTad5TujTyKiqb6wOFY0IQ.png" alt="weka" width="40" height="40"/> </a>
-<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://img.utdstc.com/icon/eb3/b31/eb3b31686d8a164236f5fef2cb852a72880c8c6d7bb0808e9d06757050d72f2e:200" alt="wireshark" width="40" height="40"/> </a>
+<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://es.wikipedia.org/wiki/Wireshark#/media/Archivo:Wireshark_icon.svg" alt="wireshark" width="40" height="40"/> </a>
 <a href="https://www.tableau.com/es-es" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/tableau-5376637-4489897.png" alt="tableau" width="40" height="40"/> </a>
 </p>
 
