@@ -49,6 +49,7 @@
 <a href="https://www.cs.waikato.ac.nz/ml/weka/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/256/1*fTad5TujTyKiqb6wOFY0IQ.png" alt="weka" width="40" height="40"/> </a>
 <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/800px-Wireshark_icon.svg.png" alt="wireshark" width="40" height="40"/> </a>
 <a href="https://www.tableau.com/es-es" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/tableau-5376637-4489897.png" alt="tableau" width="40" height="40"/> </a>
+<a href="https://prestashop.es/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Prestashop.svg" alt="Prestashop" width="40" height="40"/> </a>
 </p>
 
 <p align="center">
