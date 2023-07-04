@@ -1,4 +1,4 @@
-![image](https://github.com/Isi-17/Isi-17/assets/77728729/240e6b24-3bb0-420e-92af-eb9b038a65cf)- 👋 Hi, I’m Isidro García
+- 👋 Hi, I’m Isidro García
 - 👀 I’m interested in maths, programming, A.I. and cybersecurity.
 - 🌱 I’m currently studying a double degree of Computer Engineering and Mathematics at the University of Málaga.
 
@@ -8,7 +8,7 @@
 </p>
 <h3 align="left">🏆 Achievements</h3>
 <p align="left">
-<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/82C4LFEY28JC" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/015364a4-c68c-4c42-8060-3553118f2ff0/image.png" alt="dataAnalysis" height="30" width="40" /></a>
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/82C4LFEY28JC" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/015364a4-c68c-4c42-8060-3553118f2ff0/image.png" alt="dataAnalysis" height="40" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
