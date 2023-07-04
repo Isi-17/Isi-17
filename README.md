@@ -53,11 +53,12 @@
 </p>
 
 
-  <a href="https://github.com">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isi-17&layout=compact&langs_count=10&&locale=es" />
-  </a>
+
 
 <h3 align="left">🏆 Achievements</h3>
 <p align="left">
 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/82C4LFEY28JC" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/015364a4-c68c-4c42-8060-3553118f2ff0/image.png" alt="dataAnalysis" height="200" width="200" /></a>
+  <a href="https://github.com">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isi-17&layout=compact&langs_count=10&&locale=es" />
+  </a>
 </p>
