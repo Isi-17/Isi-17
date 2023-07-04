@@ -6,10 +6,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/isidrogarcía17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isidrogarcía17" height="30" width="40" /></a>
 </p>
-<h3 align="left">🏆 Achievements</h3>
-<p align="left">
-<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/82C4LFEY28JC" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/015364a4-c68c-4c42-8060-3553118f2ff0/image.png" alt="dataAnalysis" height="100" width="100" /></a>
-</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -61,4 +57,7 @@
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isi-17&layout=compact&langs_count=10&&locale=es" />
   </a>
 </p>
-
+<h3 align="left">🏆 Achievements</h3>
+<p align="left">
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/82C4LFEY28JC" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/015364a4-c68c-4c42-8060-3553118f2ff0/image.png" alt="dataAnalysis" height="200" width="200" /></a>
+</p>
