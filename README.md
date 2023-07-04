@@ -52,7 +52,7 @@
 <a href="https://prestashop.es/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Prestashop.svg" alt="Prestashop" width="40" height="40"/> </a>
 </p>
 
-<p align="center">
+<p align="right">
   <a href="https://github.com">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isi-17&layout=compact&langs_count=10&&locale=es" />
   </a>
