@@ -8,7 +8,7 @@
 </p>
 <h3 align="left">🏆 Achievements</h3>
 <p align="left">
-<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/82C4LFEY28JC" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/015364a4-c68c-4c42-8060-3553118f2ff0/image.png" alt="dataAnalysis" height="50" width="50" /></a>
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/82C4LFEY28JC" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/015364a4-c68c-4c42-8060-3553118f2ff0/image.png" alt="dataAnalysis" height="70" width="70" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
