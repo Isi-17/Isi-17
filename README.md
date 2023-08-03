@@ -59,5 +59,5 @@
 <h3 align="left">🏆 Achievements</h3>
 <p align="center">
 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/82C4LFEY28JC" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/015364a4-c68c-4c42-8060-3553118f2ff0/image.png" alt="dataAnalysis" height="180" width="180" /></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/779cac3b-4ff0-4e58-a59c-66b50ab69c71/badges/4541110?utm_medium=social&utm_source=twitter&utm_campaign=ql-social-share" target="blank"><img align="center" src="https://cdn.qwiklabs.com/uehm6AXjibx%2Fiv0KiH9QnBXSoFmeRyLMAQt35WsCttE%3D" alt="dataAnalysis" height="180" width="220" /></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/779cac3b-4ff0-4e58-a59c-66b50ab69c71/badges/4541110?utm_medium=social&utm_source=twitter&utm_campaign=ql-social-share" target="blank"><img align="center" src="https://cdn.qwiklabs.com/uehm6AXjibx%2Fiv0KiH9QnBXSoFmeRyLMAQt35WsCttE%3D" alt="dataAnalysis" height="160" width="220" /></a>
 </p>
