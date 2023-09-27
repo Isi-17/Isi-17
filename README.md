@@ -6,7 +6,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/isidrogarcía17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isidrogarcía17" height="30" width="40" /></a>
 </p>
-Throughout my professional career, I have been exposed to several programming languages, such as:
 <h3 align="left">Languages:</h3>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -44,7 +43,6 @@ Throughout my professional career, I have been exposed to several programming la
 -->
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> </a>
 </p>
-I have also had the opportunity to learn about various tools and technologies, including:
 <h3 align="left">Tools:</h3>
 <p align="left">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
