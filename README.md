@@ -6,6 +6,11 @@
 <p align="left">
 <a href="https://linkedin.com/in/isidrogarcía17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isidrogarcía17" height="30" width="40" /></a>
 </p>
+<p align="center">
+<a href="https://github.com">
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isi-17&layout=compact&langs_count=10&&locale=es" />
+</a>
+</p>
 
   <!--
 
@@ -71,11 +76,7 @@
 <a href="https://www.tableau.com/es-es" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/tableau-5376637-4489897.png" alt="tableau" width="40" height="40"/> </a>
 <a href="https://prestashop.es/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Prestashop.svg" alt="Prestashop" width="40" height="40"/> </a>
 </p>
-<p align="center">
-<a href="https://github.com">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isi-17&layout=compact&langs_count=10&&locale=es" />
-</a>
-</p>
+
 <h3 align="left">🏆 Achievements</h3>
 <p align="center">
 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/82C4LFEY28JC" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/015364a4-c68c-4c42-8060-3553118f2ff0/image.png" alt="dataAnalysis" height="180" width="180" /></a>
