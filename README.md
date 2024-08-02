@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Isidro García
+- 🌐 2024 CERN OpenLab Summer Student
 - 👀 I’m interested in maths, programming, data analysis, A.I. and cybersecurity.
 - 🌱 I’m currently studying a double degree of Computer Engineering and Mathematics at the University of Málaga.
 
